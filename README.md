@@ -105,7 +105,7 @@ MacOS
 
 Viele Externals lassen sich auch einfach über den Max Package Manager installieren. Dieser findet sich in Max unter:
 ```
-File ->; Show Package Manager
+File -> Show Package Manager
 ```
 
 ### Nützliche Externals für den Alltag
