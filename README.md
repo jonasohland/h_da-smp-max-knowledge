@@ -38,13 +38,19 @@ Alles was wirklich über man wissen muss findet sich in der Max Documentation:
 
 [Max Documentation](https://docs.cycling74.com/max7/)
 
-Die Grundlagen von Max (Syntax, Messages, Datatypes)
+Die Grundlagen von Max (Objects, Syntax, Messages, Datatypes). Es lohnt sich hier anzufangen um die Grundlagen zu verstehen.
 
-[Max Basic Tutorials](https://docs.cycling74.com/max7/tutorials/00_maxindex)
+[Basic Max Tutorials](https://docs.cycling74.com/max7/tutorials/00_maxindex)
+
+Je nach Kenntnisstand von Themen rund um das Thema DSP und Digital Audio empfiehlt sich die folgende Einführung in das Thema:
 
 [How Digital Audio Works](https://docs.cycling74.com/max7/tutorials/02_mspdigitalaudio)
 
+Danach ist es Zeit sich endlich in die Welt von Signalen, Oszillatoren und Filtern zu stürzen.
+
 [Max MSP (Max Signal Processing) Tutorials](https://docs.cycling74.com/max7/tutorials/00_mspindex)
+
+Und wem das an dieser Stelle noch nicht reicht, der kann sich mit **Gen** beschäftigen.
 
 [Max gen Tutorials](https://docs.cycling74.com/max7/vignettes/gen_topic)
 
