@@ -56,7 +56,7 @@ Und wem das an dieser Stelle noch nicht reicht, der kann sich mit **Gen** besch�
 
 [Max Gen Tutorials](https://docs.cycling74.com/max7/vignettes/gen_topic)
 
-Wer es bis hier geschafft hat ist inzwichen Max-Experte und bereit für die Reference! Hier finden sich ausführliche Informationen über jedes einzelne Objekt und jede einzelne Methode und Message im ganzen Max-Universum:
+Wer es bis hier geschafft hat ist inzwischen Max-Experte und bereit für die Reference! Hier finden sich ausführliche Informationen über jedes einzelne Objekt und jede einzelne Methode und Message im ganzen Max-Universum:
 
 [Max Object Reference](https://docs.cycling74.com/max7/vignettes/docrefpages)
 
@@ -75,7 +75,7 @@ Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so z
 
 [Max Community Tutorials](https://cycling74.com/tutorials/page/1). Hier findet man zahlreiche interessante Tutorials und Inspirationen die ein wenig über die Basics hinaus gehen.
 
-[Javascript in Max](https://docs.cycling74.com/max7/vignettes/javascriptinmax) Hier gibt es zusätzliche Informationen über Javascript in Max. Es geht nochmal deutlich über das hinaus was man in der Dokumentation von `js`.
+[Javascript in Max](https://docs.cycling74.com/max7/vignettes/javascriptinmax) Hier gibt es zusätzliche Informationen über Javascript in Max. Diese gehen nochmal deutlich über das hinaus was man in der Dokumentation von `js` findet.
 
 
 ## Externals
