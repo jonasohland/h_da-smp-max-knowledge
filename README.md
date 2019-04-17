@@ -30,9 +30,9 @@ In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
 Abseits davon lohnt es sich immer, mal einen Blick auf die Helppage von einzelnen Max-Objekten zu werfen. Dazu reicht ein Rechtsklick auf das Objekt und dann noch ein gezielter Linksklick auf `show [OBJ] help`
 
-Alles was wirklich über man wissen muss findet sich in der Max Documentation:
-
 ## Online Documentation
+
+Alles was wirklich über man wissen muss findet sich in der Max Documentation:
 
 [Max Documentation](https://docs.cycling74.com/max7/)
 
