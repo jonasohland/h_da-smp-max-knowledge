@@ -12,14 +12,14 @@ In der [Ausleihe](https://shoptechnikfbmd.iqrent.de/search/?keyword=MAX7) lassen
 Dort gibt es bisher nur Dongles für **Max 7**. Das steht [hier](https://cycling74.com/downloads/older) zum Download bereit.
 Damit die Aktivierung mit einem Dongle funktioniert muss der [Pace License Manager](https://www.paceap.com/pace-management.html) installiert sein.
 
-Wer keine Lust hat auf die Ausleihe angewiesen zu sein, kann [hier](https://cycling74.com/shop) eine eigene Lizenz erwerben. Nach einer Registrierung auf der Seite von Cycling'74 kann man sich dort als Student*in verifiziern lassen und hat dann Anspruch auf eine vergünstige *Academic Licence*.
+Wer keine Lust hat auf die Ausleihe angewiesen zu sein, kann [hier](https://cycling74.com/shop) eine eigene Lizenz erwerben. Nach einer Registrierung auf der Seite von Cycling'74 kann man sich dort als Student*in verifizieren lassen und hat dann Anspruch auf eine vergünstigte *Academic Licence*.
 
 ## Einstieg
 
 ### Documentation in Max finden
 
 Fast alle Tutorials in diesem Abschnitt finden sich auch direkt innerhalb von Max.
-Um dorthin zu kommen sind folgende Schritte notwending:
+Um dorthin zu kommen sind folgende Schritte notwendig:
 
 ```
 File -> Filebrowser (oder CMD+B auf MacOS bzw CTRL + B auf Win)
@@ -60,7 +60,7 @@ Wer es bis hier geschafft hat ist inzwischen Max-Experte und bereit für die Ref
 
 [Max Object Reference](https://docs.cycling74.com/max7/vignettes/docrefpages)
 
-Und weil Vergessen menschlich ist, gibt es hier das Max Cheetsheet. Darauf sind die Basics nochmal in Kurzform zusammengefasst. Empfiehlt sich für Wieder- und Quereinsteiger:
+Und weil Vergessen menschlich ist, gibt es hier das Max Cheatsheet. Darauf sind die Basics nochmal in Kurzform zusammengefasst. Empfiehlt sich für Wieder- und Quereinsteiger:
 
 [Max Cheetsheet](https://cycling74-web-uploads.s3.amazonaws.com/5462c2a9bdbb99652da7a00a/2017-05-11T08:53:04Z/cheatsheet.pdf)
 
@@ -68,7 +68,7 @@ Und weil Vergessen menschlich ist, gibt es hier das Max Cheetsheet. Darauf sind 
 
 ### Cycling'74 Forum
 
-Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so ziemlich alles. Die Community ist sehr beginnerfreundlich und meistens antwortet nach kurzer Zeit einer der dort sehr aktiven Max-Entwickler. Allerdings gilt auch hier die goldene Regel jeder Help-Community: **erst Suchen, dann Fragen**.
+Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so ziemlich alles. Die Community ist sehr beginner-freundlich und meistens antwortet nach kurzer Zeit einer der dort sehr aktiven Max-Entwickler. Allerdings gilt auch hier die goldene Regel jeder Help-Community: **erst Suchen, dann Fragen**.
 
 ### Videos, Tutorials, etc.
 [Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497) ist eine sehr empfehlenswerte Tutorial-Serie von *Sam Tarakajian* einem der Entwickler von Max bei Cycling'74.
@@ -135,6 +135,6 @@ CV Externals für jitter:
 
 
 
-## Ergänzugen
+## Ergänzungen
 
 Wenn hier etwas fehlt oder ihr noch etwas spannendes im Internet gefunden habt, dann schreibt mir einfach eine [Mail](mailto:jonas.ohland@stud.h-da.de) oder eröffnet [hier](https://github.com/jonasohland/h_da-smp-max-knowledge) eine Issue.
