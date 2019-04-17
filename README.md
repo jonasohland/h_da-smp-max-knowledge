@@ -28,7 +28,7 @@ In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
 ```
 
-![](find_tutorials_filebrowser.png) <!--- { width=250px } -->
+![](https://github.com/jonasohland/h_da-smp-max-knowledge/raw/master/find_tutorials_filebrowser.png) <!--- { width=250px } -->
 
 ### Object Help
 
