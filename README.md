@@ -62,7 +62,7 @@ Wer es bis hier geschafft hat ist inzwichen Max-Experte und bereit für die Refe
 
 ### Cycling'74 Forum
 
-Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so ziemlich alles. Die Community ist sehr beginnerfreundlich und meistens antwortet nach kurzer Zeit einer der dort sehr aktiven Max-Entwickler. Allerdings gilt auch hier die goldene Regel jeder Help-Community **erst Suchen, dann Fragen**
+Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so ziemlich alles. Die Community ist sehr beginnerfreundlich und meistens antwortet nach kurzer Zeit einer der dort sehr aktiven Max-Entwickler. Allerdings gilt auch hier die goldene Regel jeder Help-Community: **erst Suchen, dann Fragen**.
 
 ### Videos, Tutorials, etc.
 [Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497) ist eine sehr empfehlenswerte Tutorial-Serie von *Sam Tarakajian* einem der Entwickler von Max bei Cycling'74.
