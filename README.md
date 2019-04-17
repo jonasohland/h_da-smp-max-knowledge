@@ -68,3 +68,5 @@ Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so z
 [Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497) ist eine sehr empfehlenswerte Tutorial-Serie von *Sam Tarakajian* einem der Entwickler von Max bei Cycling'74.
 
 [Max Community Tutorials](https://cycling74.com/tutorials/page/1). Hier findet man zahlreiche interessante Tutorials und Inspirationen die ein wenig über die Basics hinaus gehen.
+
+[Javascript in Max](https://docs.cycling74.com/max7/vignettes/javascriptinmax) Hier gibt es zusätzliche Informationen über Javascript in Max. Es geht nochmal deutlich über das hinaus was man in der Dokumentation von `js`.
