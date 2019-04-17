@@ -104,7 +104,7 @@ MacOS
 
 **Ambisonics**
 
-[ICST Externals](https://www.zhdk.ch/forschung/icst/software-downloads-5379/downloads-ambisonics-externals-for-maxmsp-5381) (Verfügbar im Package manager)
+[ICST Externals](https://www.zhdk.ch/forschung/icst/software-downloads-5379/downloads-ambisonics-externals-for-maxmsp-5381) (Verfügbar im Package Manager)
 
 [HOA Library](https://github.com/CICM/HoaLibrary-Max/releases)
 
