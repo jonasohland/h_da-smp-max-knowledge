@@ -104,9 +104,19 @@ MacOS
 
 **Ambisonics**
 
-lalala
+[ICST Externals](https://www.zhdk.ch/forschung/icst/software-downloads-5379/downloads-ambisonics-externals-for-maxmsp-5381) (Verfügbar im Package manager)
+
+[HOA Library](https://github.com/CICM/HoaLibrary-Max/releases)
 
 **OSC**
+
+[odot Externals](https://github.com/CNMAT/CNMAT-odot/releases)
+
+[CNMAT Externals](https://github.com/CNMAT/CNMAT-Externs/releases)
+
+**Machine Learning**
+
+[ml.star](https://cycling74.com/articles/content-you-need-ml%C2%B7star) (Verfügbar im Package Manager)
 
 
 
