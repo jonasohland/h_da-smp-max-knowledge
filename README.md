@@ -87,3 +87,26 @@ Externals sind zusätzliche Objekte, die sich überall im Internet verstreut fin
 
 Externals sind Dateien die unter MacOS die Endung `.mxo` und unter Windows die Endung `.mxe64` aufweisen.
 Externals unter Windows mit der Endung `.mxe` benötigen eine 32-bit Version von Max.
+
+Wenn nicht anders beschrieben sollten Externals installiert werden in:
+
+Windows
+```
+C:\Users\YourNameHere\Documents\Max 8\Library\
+```
+
+MacOS
+```
+/Users/jonasohland/Documents/Max 8/Library/
+```
+
+### Nützliche Externals für den Alltag
+
+**Ambisonics**
+
+lalala
+
+**OSC**
+
+
+
