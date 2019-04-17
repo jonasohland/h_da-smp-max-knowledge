@@ -22,7 +22,7 @@ Fast alle Tutorials in diesem Abschnitt finden sich auch direkt innerhalb von Ma
 Um dorthin zu kommen sind folgende Schritte notwending:
 
 ```
-File -> Filebrowser (oder CMD+B auf MacOS bzw)
+File -> Filebrowser (oder CMD+B auf MacOS bzw CTRL + B auf Win)
 
 In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
@@ -76,3 +76,14 @@ Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so z
 [Max Community Tutorials](https://cycling74.com/tutorials/page/1). Hier findet man zahlreiche interessante Tutorials und Inspirationen die ein wenig über die Basics hinaus gehen.
 
 [Javascript in Max](https://docs.cycling74.com/max7/vignettes/javascriptinmax) Hier gibt es zusätzliche Informationen über Javascript in Max. Es geht nochmal deutlich über das hinaus was man in der Dokumentation von `js`.
+
+
+## Externals
+
+Eigentlich gibt es in Max ein Objekt für so ziemlich alles. Und sollte mal eins nicht geben, dann gibt es mit Sicherheit ein External dafür.
+Externals sind zusätzliche Objekte, die sich überall im Internet verstreut finden.
+
+### Externals installieren
+
+Externals sind Dateien die unter MacOS die Endung `.mxo` und unter Windows die Endung `.mxe64` aufweisen.
+Externals unter Windows mit der Endung `.mxe` benötigen eine 32-bit Version von Max.
