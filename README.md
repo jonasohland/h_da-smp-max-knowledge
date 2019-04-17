@@ -109,20 +109,26 @@ File -> Show Package Manager
 
 **Ambisonics**
 
+Essentielle Externals für Ambisonics (Encoder Decoder and more):
 [ICST Externals](https://www.zhdk.ch/forschung/icst/software-downloads-5379/downloads-ambisonics-externals-for-maxmsp-5381) (Verfügbar im Package Manager)
 
+Alternative inklusive Binaural Decoder:
 [HOA Library](https://github.com/CICM/HoaLibrary-Max/releases)
 
 **OSC**
 
+OSC und noch viel mehr:
 [odot Externals](https://github.com/CNMAT/CNMAT-odot/releases)
 
+Alternative OSC Externals aus dem gleichen Haus:
 [CNMAT Externals](https://github.com/CNMAT/CNMAT-Externs/releases) (Verfügbar im Package Manager)
 
 **Machine Learning**
 
+Machine Learning in Max/MSP mit vielen interessanten Beispielen:
 [ml.star](https://cycling74.com/articles/content-you-need-ml%C2%B7star) (Verfügbar im Package Manager)
 
 **Computer Vision**
 
+CV Externals für jitter:
 [cv.jit](https://jmpelletier.com/cvjit/) (Verfügbar im Package Manager)
