@@ -30,7 +30,7 @@ In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
 ### Object Help
 
-Abseits davon lohnt es sich immer, mal einen Blick auf die Helppage von einzelnen Max-Objekten zu werfen. Dazu reicht ein Rechtsklick auf das Objekt und dann noch ein gezielter Linksklick auf `show [OBJ] help`
+Abseits davon lohnt es sich immer, mal einen Blick auf die Helppage von einzelnen Max-Objekten zu werfen. Dazu reicht ein Rechtsklick auf das Objekt gefolgt von einem gezielten Linksklick auf `show [OBJ] help`.
 
 ## Online Documentation
 
@@ -60,6 +60,7 @@ Wer es bis hier geschafft hat ist inzwichen Max-Experte und bereit für die Refe
 
 ## Fortgeschrittenes
 
-[Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497)
+### Videos, Tutorials, etc.
+[Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497) ist eine sehr empfehlenswerte Tutorial-Serie von *Sam Tarakajian* einem der Entwickler von Max bei Cycling'74.
 
 [Max Community Tutorials](https://cycling74.com/tutorials/page/1)
