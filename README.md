@@ -50,7 +50,7 @@ Die Grundlagen von Max (Syntax, Messages, Datatypes)
 
 [Max Object Reference](https://docs.cycling74.com/max7/vignettes/docrefpages)
 
-### Fortgeschrittenes
+## Fortgeschrittenes
 
 [Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497)
 
