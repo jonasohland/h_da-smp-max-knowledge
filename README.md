@@ -18,7 +18,7 @@ In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
 ```
 
-![](find_tutorials_filebrowser.png){ width=250px }
+![](find_tutorials_filebrowser.png)
 
 [Max Documentation](https://docs.cycling74.com/max7/)
 
