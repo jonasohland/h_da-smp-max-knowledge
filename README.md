@@ -132,3 +132,9 @@ Machine Learning in Max/MSP mit vielen interessanten Beispielen:
 
 CV Externals für jitter:
 [cv.jit](https://jmpelletier.com/cvjit/) (Verfügbar im Package Manager)
+
+
+
+## Ergänzugen
+
+Wenn hier etwas fehlt oder ihr noch etwas spannendes im Internet gefunden habt, dann schreibt mir einfach eine [Mail](mailto:jonas.ohland@stud.h-da.de) oder eröffnet [hier](https://github.com/jonasohland/h_da-smp-max-knowledge) eine Issue.
