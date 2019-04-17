@@ -2,6 +2,9 @@
 
 Hier ein paar nützliche Links und Tipps zum Thema **Max/MSP**
 
+## Achtung
+In Moodle sieht dieser Text furchtbar aus. Ich empfehle ihn direkt -&gt; [hier](https://github.com/jonasohland/h_da-smp-max-knowledge) &lt;- anzuschauen 
+
 ## Überblick
 
 Max ist eine visuelle Programmiersprache und Laufzeitumgebung für Multimediaanwendungen, die sich in der Version **8**
@@ -12,7 +15,7 @@ In der [Ausleihe](https://shoptechnikfbmd.iqrent.de/search/?keyword=MAX7) lassen
 Dort gibt es bisher nur Dongles für **Max 7**. Das steht [hier](https://cycling74.com/downloads/older) zum Download bereit.
 Damit die Aktivierung mit einem Dongle funktioniert muss der [Pace License Manager](https://www.paceap.com/pace-management.html) installiert sein.
 
-Wer keine Lust hat auf die Ausleihe angewiesen zu sein, kann [hier](https://cycling74.com/shop) eine eigene Lizenz erwerben. Nach einer Registrierung auf der Seite von Cycling'74 kann man sich dort als Student*in verifizieren lassen und hat dann Anspruch auf eine vergünstigte *Academic Licence*.
+Wer keine Lust hat auf die Ausleihe angewiesen zu sein, kann [hier](https://cycling74.com/shop) eine eigene Lizenz erwerben. Nach einer Registrierung auf der Seite von Cycling'74 kann man sich dort als Student_in verifizieren lassen und hat dann Anspruch auf eine vergünstigte *Academic Licence*.
 
 ## Einstieg
 
@@ -28,7 +31,7 @@ In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
 ```
 
-![](https://github.com/jonasohland/h_da-smp-max-knowledge/raw/master/find_tutorials_filebrowser.png) <!--- { width=250px } -->
+![](https://github.com/jonasohland/h_da-smp-max-knowledge/raw/master/find_tutorials_filebrowser.png) 
 
 ### Object Help
 
@@ -71,7 +74,7 @@ Und weil Vergessen menschlich ist, gibt es hier das Max Cheatsheet. Darauf sind 
 Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so ziemlich alles. Die Community ist sehr beginner-freundlich und meistens antwortet nach kurzer Zeit einer der dort sehr aktiven Max-Entwickler. Allerdings gilt auch hier die goldene Regel jeder Help-Community: **erst Suchen, dann Fragen**.
 
 ### Videos, Tutorials, etc.
-[Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497) ist eine sehr empfehlenswerte Tutorial-Serie von *Sam Tarakajian* einem der Entwickler von Max bei Cycling'74.
+[Delicious Max Tutorials](http://tiny.cc/61ic5y) ist eine sehr empfehlenswerte Tutorial-Serie von *Sam Tarakajian* einem der Entwickler von Max bei Cycling'74.
 
 [Max Community Tutorials](https://cycling74.com/tutorials/page/1). Hier findet man zahlreiche interessante Tutorials und Inspirationen die ein wenig über die Basics hinaus gehen.
 
@@ -102,7 +105,7 @@ MacOS
 
 Viele Externals lassen sich auch einfach über den Max Package Manager installieren. Dieser findet sich in Max unter:
 ```
-File -> Show Package Manager
+File ->; Show Package Manager
 ```
 
 ### Nützliche Externals für den Alltag
