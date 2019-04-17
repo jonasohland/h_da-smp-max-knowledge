@@ -100,7 +100,7 @@ MacOS
 /Users/jonasohland/Documents/Max 8/Library/
 ```
 
-Viele Externals lassen sich auch einfach über den Max Package Manager installieren. Dieser findet sich in Max unter
+Viele Externals lassen sich auch einfach über den Max Package Manager installieren. Dieser findet sich in Max unter:
 ```
 File -> Show Package Manager
 ```
@@ -117,11 +117,12 @@ File -> Show Package Manager
 
 [odot Externals](https://github.com/CNMAT/CNMAT-odot/releases)
 
-[CNMAT Externals](https://github.com/CNMAT/CNMAT-Externs/releases)
+[CNMAT Externals](https://github.com/CNMAT/CNMAT-Externs/releases) (Verfügbar im Package Manager)
 
 **Machine Learning**
 
 [ml.star](https://cycling74.com/articles/content-you-need-ml%C2%B7star) (Verfügbar im Package Manager)
 
+**Computer Vision**
 
-
+[cv.jit](https://jmpelletier.com/cvjit/) (Verfügbar im Package Manager)
