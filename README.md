@@ -4,7 +4,11 @@ Hier ein paar nützliche Links und Tipps zum Thema **Max/MSP**
 
 ### Überblick
 
-[Max Download](https://cycling74.com/downloads)
+Max ist eine visuelle Programmiersprache und Laufzeitumgebung für Multimediaanwendungen, die sich hier:
+[hier](https://cycling74.com/downloads)
+herunterladen lässt.
+
+
 
 ### Einstieg
 
