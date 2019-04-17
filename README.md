@@ -58,6 +58,10 @@ Wer es bis hier geschafft hat ist inzwichen Max-Experte und bereit für die Refe
 
 [Max Object Reference](https://docs.cycling74.com/max7/vignettes/docrefpages)
 
+Und weil Vergessen menschlich ist, gibt es hier das Max Cheetsheet. Darauf sind die Basics nochmal in kurzform zusammengefasst. Empfiehlt sich für Wieder- und Quereinsteiger:
+
+[Max Cheetsheet](https://cycling74-web-uploads.s3.amazonaws.com/5462c2a9bdbb99652da7a00a/2017-05-11T08:53:04Z/cheatsheet.pdf)
+
 ## Fortgeschrittenes
 
 ### Cycling'74 Forum
