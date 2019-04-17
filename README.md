@@ -32,6 +32,8 @@ Abseits davon lohnt es sich immer, mal einen Blick auf die Helppage von einzelne
 
 Alles was wirklich über man wissen muss findet sich in der Max Documentation:
 
+## Online Documentation
+
 [Max Documentation](https://docs.cycling74.com/max7/)
 
 Die Grundlagen von Max (Syntax, Messages, Datatypes)
