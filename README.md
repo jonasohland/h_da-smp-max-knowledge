@@ -28,7 +28,7 @@ In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
 ![](find_tutorials_filebrowser.png)
 
-Abseits davon lohnt es sich immer, mal einen Blick auf die Helppage von einzelnen Max-Objekten zu schauen. Dazu reicht ein Rechtsklick auf das Objekt und dann noch ein gezielter Linksklick auf `show [OBJ] help`
+Abseits davon lohnt es sich immer, mal einen Blick auf die Helppage von einzelnen Max-Objekten zu werfen. Dazu reicht ein Rechtsklick auf das Objekt und dann noch ein gezielter Linksklick auf `show [OBJ] help`
 
 Alles was wirklich über man wissen muss findet sich in der Max Documentation:
 
