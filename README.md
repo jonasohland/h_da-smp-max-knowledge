@@ -4,11 +4,12 @@ Hier ein paar nützliche Links und Tipps zum Thema **Max/MSP**
 
 ## Überblick
 
-Max ist eine visuelle Programmiersprache und Laufzeitumgebung für Multimediaanwendungen, die sich
+Max ist eine visuelle Programmiersprache und Laufzeitumgebung für Multimediaanwendungen, die sich in der Version **8**
 [hier](https://cycling74.com/downloads)
 herunterladen lässt.
 
-In der [Ausleihe](https://shoptechnikfbmd.iqrent.de/search/?keyword=MAX7) lassen sich Lizenzen für Max 7 ausleihen.
+In der [Ausleihe](https://shoptechnikfbmd.iqrent.de/search/?keyword=MAX7) lassen sich Lizenzen für **Max 7** ausleihen.
+Dort gibt es bisher nur Dongles für **Max 7**. Max **7** lässt sich [hier](https://cycling74.com/downloads/older) herunterladen.
 
 Wer keine Lust hat auf die Ausleihe angewiesen zu sein, kann [hier](https://cycling74.com/shop) eine eigene Lizenz erwerben. Nach einer Registrierung auf der Seite von Cycling'74 kann man sich dort als Student*in verifiziern lassen und hat dann Anspruch auf eine vergünstige *Academic Licence*.
 
@@ -58,7 +59,7 @@ Wer es bis hier geschafft hat ist inzwichen Max-Experte und bereit für die Refe
 
 [Max Object Reference](https://docs.cycling74.com/max7/vignettes/docrefpages)
 
-Und weil Vergessen menschlich ist, gibt es hier das Max Cheetsheet. Darauf sind die Basics nochmal in kurzform zusammengefasst. Empfiehlt sich für Wieder- und Quereinsteiger:
+Und weil Vergessen menschlich ist, gibt es hier das Max Cheetsheet. Darauf sind die Basics nochmal in Kurzform zusammengefasst. Empfiehlt sich für Wieder- und Quereinsteiger:
 
 [Max Cheetsheet](https://cycling74-web-uploads.s3.amazonaws.com/5462c2a9bdbb99652da7a00a/2017-05-11T08:53:04Z/cheatsheet.pdf)
 
