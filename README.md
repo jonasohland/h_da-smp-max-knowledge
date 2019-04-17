@@ -8,8 +8,9 @@ Max ist eine visuelle Programmiersprache und Laufzeitumgebung für Multimediaanw
 [hier](https://cycling74.com/downloads)
 herunterladen lässt.
 
-In der [Ausleihe](https://shoptechnikfbmd.iqrent.de/search/?keyword=MAX7) lassen sich Lizenzen für Max ausleihen.
+In der [Ausleihe](https://shoptechnikfbmd.iqrent.de/search/?keyword=MAX7) lassen sich Lizenzen/Dongles für Max ausleihen.
 Dort gibt es bisher nur Dongles für **Max 7**. Das steht [hier](https://cycling74.com/downloads/older) zum Download bereit.
+Damit die Aktivierung mit einem Dongle funktioniert muss der [Pace License Manager](https://www.paceap.com/pace-management.html) installiert sein.
 
 Wer keine Lust hat auf die Ausleihe angewiesen zu sein, kann [hier](https://cycling74.com/shop) eine eigene Lizenz erwerben. Nach einer Registrierung auf der Seite von Cycling'74 kann man sich dort als Student*in verifiziern lassen und hat dann Anspruch auf eine vergünstige *Academic Licence*.
 
