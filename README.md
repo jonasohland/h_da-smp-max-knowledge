@@ -26,7 +26,7 @@ In der linken Seitenleiste -> Cycling'74 Content (siehe Bild)
 
 ```
 
-![](find_tutorials_filebrowser.png)
+![](find_tutorials_filebrowser.png) <!--- { width=250px } -->
 
 ### Object Help
 
