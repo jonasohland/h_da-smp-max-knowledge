@@ -100,6 +100,11 @@ MacOS
 /Users/jonasohland/Documents/Max 8/Library/
 ```
 
+Viele Externals lassen sich auch einfach über den Max Package Manager installieren. Dieser findet sich in Max unter
+```
+File -> Show Package Manager
+```
+
 ### Nützliche Externals für den Alltag
 
 **Ambisonics**
