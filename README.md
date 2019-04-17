@@ -52,7 +52,7 @@ Danach ist es Zeit sich endlich in die Welt von Signalen, Oszillatoren und Filte
 
 Und wem das an dieser Stelle noch nicht reicht, der kann sich mit **Gen** beschäftigen:
 
-[Max gen Tutorials](https://docs.cycling74.com/max7/vignettes/gen_topic)
+[Max Gen Tutorials](https://docs.cycling74.com/max7/vignettes/gen_topic)
 
 Wer es bis hier geschafft hat ist inzwichen Max-Experte und bereit für die Reference! Hier finden sich ausführliche Informationen über jedes einzelne Objekt und jede einzelne Methode und Message im ganzen Max-Universum:
 
@@ -60,7 +60,11 @@ Wer es bis hier geschafft hat ist inzwichen Max-Experte und bereit für die Refe
 
 ## Fortgeschrittenes
 
+### Cycling'74 Forum
+
+Im [Forum](https://cycling74.com/forums/page/1) findet man eine Antwort auf so ziemlich alles. Die Community ist sehr beginnerfreundlich und meistens antwortet nach kurzer Zeit einer der dort sehr aktiven Max-Entwickler.
+
 ### Videos, Tutorials, etc.
 [Delicious Max Tutorials](https://www.youtube.com/playlist?list=PLD45EDA6F67827497) ist eine sehr empfehlenswerte Tutorial-Serie von *Sam Tarakajian* einem der Entwickler von Max bei Cycling'74.
 
-[Max Community Tutorials](https://cycling74.com/tutorials/page/1)
+[Max Community Tutorials](https://cycling74.com/tutorials/page/1). Hier findet man zahlreiche interessante Tutorials und Inspirationen die ein wenig über die Basics hinaus gehen.
